@@ -1,6 +1,6 @@
-# Advanced Automation Project
+# Working with Actions and Automation Project
 
-Advanced Automation Framework for Java Selenium WebDriver Automation Tests
+Actions and Automation Framework with Java Selenium WebDriver 
 
 * Java
 * Selenium WebDriver
@@ -19,7 +19,6 @@ Advanced Automation Framework for Java Selenium WebDriver Automation Tests
 * Jenkins
 
 ### Changes Log
-* Support for Multi-Threads
-* Support for Multi-Browsers Runs
+
   
 [Jean-francois Nepton](http://jfbuilds.com)
